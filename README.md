@@ -1,0 +1,2 @@
+# My-Sobel
+FPGA,DDR,OV5640,SOBEL
